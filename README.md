@@ -1,9 +1,9 @@
 # SIMULATION AND IMPLEMENTATION OF BINARY MULTIPLIER
 **AIM:**<br>
 
-&emsp;&emsp;To simulate and implement binary multiplier using VIVADO 2023.2.<br>
+&emsp;&emsp;To simulate and implement binary multipliers using VIVADO 2023.2.<br>
 
-**APPARATUS REQUIRED:**<br>
+**SOFTWARE REQUIRED:**<br>
 
 &emsp;&emsp;VIVADO 2023.2<br>
   
