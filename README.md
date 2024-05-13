@@ -16,8 +16,6 @@
  STEP:5 Write the verilog code and check the syntax.<br>
  STEP:6 Click “run simulation” in the navigator window and click “Run behavioral simulation”.<br>
  STEP:7 Verify the output in the simulation window.<br>
- 
-
 
 **2 BIT MULTIPLIER:**
 
@@ -124,6 +122,7 @@ module ha(a,b,sum,carry);
 ![4bitmul](https://github.com/TharunPR/VLSI-LAB-EXP-3/assets/117915125/f8e4bedf-bdde-4397-893d-0d49ad94d584)
 
 **RESULT:**<br>
+
 &emsp;&emsp;Thus the simulation and implementation of binary multipliers is done and the outputs are verified successfully.
 
 
